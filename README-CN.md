@@ -4,10 +4,8 @@
     🤗<a href="README.md">English</a> • 
     🤗 <a href="README-CN.md">中文</a> • 
   </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Olympic_rings_without_rims.svg"/></img>
 </div>
-
-![奥运五环](https://upload.wikimedia.org/wikipedia/commons/5/5c/Olympic_rings_without_rims.svg)
-
 
 
 本项目用于从[奥林匹克官网](https://olympics.com)爬取历届奥运会的基本信息、比赛项目及详细比赛结果数据，支持中英文双语数据抓取。

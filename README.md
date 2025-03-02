@@ -1,12 +1,11 @@
 <div align="center">
-  <h1>Olympics Data Scraper🏆</h1> 
+  <h1>Olympics Crawler🏆</h1>     
   <p align="center">
     🤗<a href="README.md">English</a> • 
     🤗 <a href="README-CN.md">中文</a> • 
   </p>
-![奥运五环](https://upload.wikimedia.org/wikipedia/commons/5/5c/Olympic_rings_without_rims.svg)
-
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Olympic_rings_without_rims.svg"/></img>
+</div>
 
 
 This project scrapes historical Olympic Games data from [Olympics.com](https://olympics.com), including basic event information, sports disciplines, and detailed competition results. Supports both Chinese and English data extraction.

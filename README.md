@@ -16,8 +16,11 @@ This project scrapes historical Olympic Games data from [Olympics.com](https://o
 
 
 https://github.com/user-attachments/assets/a03f1fae-b878-4a91-9357-041ba0908a4c
-Example:  [China's medal tree at the 2024 Paris Olympics](https://public.flourish.studio/visualisation/19245062/) (Flourish)
 
+Example:  
+[China's medal tree at the 2024 Paris Olympics](https://public.flourish.studio/visualisation/19245062/) (Flourish)
+
+[2024 Paris Olympics World Medal Tree](https://public.flourish.studio/visualisation/19244212/)(Flourish)
 ## File Descriptions
 
 1. **GetOlympics_Name_Year.py**  

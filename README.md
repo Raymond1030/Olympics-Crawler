@@ -14,11 +14,9 @@ This project scrapes historical Olympic Games data from [Olympics.com](https://o
 
 ## Visualization
 
-```html
-<video width="320" controls loop>
-  <source src="./visulization/中国奥运获奖树30s.mp4" type="video/mp4">
-</video>
-```
+
+https://github.com/user-attachments/assets/a03f1fae-b878-4a91-9357-041ba0908a4c
+Example:  [China's medal tree at the 2024 Paris Olympics](https://public.flourish.studio/visualisation/19245062/) (Flourish)
 
 ## File Descriptions
 

@@ -12,6 +12,14 @@ This project scrapes historical Olympic Games data from [Olympics.com](https://o
 
 ---
 
+## Visualization
+
+```html
+<video width="320" controls loop>
+  <source src="./visulization/中国奥运获奖树30s.mp4" type="video/mp4">
+</video>
+```
+
 ## File Descriptions
 
 1. **GetOlympics_Name_Year.py**  

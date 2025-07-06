@@ -13,6 +13,18 @@
 
 ---
 
+## 可视化
+
+
+https://github.com/user-attachments/assets/a03f1fae-b878-4a91-9357-041ba0908a4c
+
+Example:  
+[2024年巴黎奥运会中国获奖树](https://public.flourish.studio/visualisation/19245062/) (Flourish)
+
+[2024年巴黎奥运会世界获奖树](https://public.flourish.studio/visualisation/19244212/)(Flourish)
+
+
+
 ## 文件说明
 
 1. **GetOlympics_Name_Year.py**  
